@@ -1,5 +1,4 @@
 # File Merger
-===========
 
 ## Introduction
 ------------
