@@ -13,7 +13,8 @@ Requirements
 Running the Script
 ------------------
 To run the script, navigate to the directory containing the script in your terminal, then run the following command:
-    - python main.py output.csv small_file_1.csv small_file_2.csv small_file_3.csv small_file_4.csv small_file_5.csv
+    
+- python main.py output.csv small_file_1.csv small_file_2.csv small_file_3.csv small_file_4.csv small_file_5.csv
 
 Observations and Thoughts
 -------------------------
